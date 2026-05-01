@@ -1,9 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Eunsu&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
-
 <p align="center">
-  <a href="https://github.com/eeennsu">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=40&color=6366F1&lines=Web+%26+Mobile+Developer" alt="Typing SVG" />
-  </a>
+  I'm Eunsu, a Web & Mobile Developer.
 </p>
 
 ## Tech Stack
