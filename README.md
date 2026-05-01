@@ -1,18 +1,20 @@
-# Hi, I'm Eunsu 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Eunsu&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
-Frontend Developer focused on
-TypeScript, React, Next.js, and React Native.
+<p align="center">
+  <a href="https://github.com/eeennsu">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=40&color=6366F1&lines=Web+%26+Mobile+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-I build products that users actually enjoy using.
+## Tech Stack
 
----
-
-## About Me
-
-- Building scalable frontend architecture
-- Strong focus on UX + performance
-- Interested in product thinking, not just coding
-- React Native + mobile product development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original-wordmark.svg" alt="React Native" height="50" />
+</p>
 
 ---
 
