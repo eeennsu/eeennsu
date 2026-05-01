@@ -19,13 +19,13 @@ I build products that users actually enjoy using.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/0-profile-details.svg?v=1" />
   <br>
-  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/1-repos-per-language.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/2-most-commit-language.svg?v=1" />
   <br>
-  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/4-productive-time.svg" />
+  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/3-stats.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/4-productive-time.svg?v=1" />
 </div>
 
 ---
