@@ -2,6 +2,15 @@
   I'm Eunsu, a Web & Mobile Developer.
 </p>
 
+<p align="center">
+  <a href="https://resume.eunsu.pro" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-resume.eunsu.pro-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://velog.io/@diso592/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Blog" />
+  </a>
+</p>
+
 ## Tech Stack
 
 <p>
