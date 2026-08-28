@@ -1,5 +1,7 @@
-<p align="center">
-  I'm Eunsu, a Web & Mobile Developer.
+## About Me
+
+<p>
+  I'm Eunsu Bang (방은수), a Web & Mobile Developer.
 </p>
 
 <p align="center">
@@ -10,6 +12,12 @@
     <img src="https://img.shields.io/badge/Blog-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Blog" />
   </a>
 </p>
+
+## Links
+
+- 📄 [방은수 이력서 · Resume](https://resume.eunsu.pro)
+- 🏠 [Link Hub](https://eunsu.pro)
+- ✍️ [기술 블로그 · velog](https://velog.io/@diso592/posts)
 
 ## Tech Stack
 
