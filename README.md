@@ -1,46 +1,19 @@
-## About Me
+<h1><img src="assets/mark.svg" width="44" height="44" align="absmiddle" alt="" /> 방은수 · Eunsu Bang</h1>
 
-<p>
-  I'm Eunsu Bang (방은수), a Web & Mobile Developer.
-</p>
+웹과 모바일 앱을 만듭니다.<br />
+실용과 편의를 기준으로 고르는 것을 선호합니다.
 
-<p align="center">
-  <a href="https://resume.eunsu.pro" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-resume.eunsu.pro-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://velog.io/@diso592/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Blog" />
-  </a>
-</p>
+## Stack
+
+**Language** — TypeScript<br />
+**Web** — React · Next.js<br />
+**Mobile** — React Native<br />
+**Backend** — NestJS
+
+## Activity
+
+<img src="profile-summary-card-output/transparent/0-profile-details.svg" width="700" alt="최근 1년 기여 그래프와 공개 저장소 수" />
 
 ## Links
 
-- 📄 [방은수 이력서 · Resume](https://resume.eunsu.pro)
-- 🏠 [Link Hub](https://eunsu.pro)
-- ✍️ [기술 블로그 · velog](https://velog.io/@diso592/posts)
-
-## Tech Stack
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original-wordmark.svg" alt="React Native" height="50" />
-</p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/0-profile-details.svg?v=1" />
-  <br>
-  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/1-repos-per-language.svg?v=1" />
-  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/2-most-commit-language.svg?v=1" />
-  <br>
-  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/3-stats.svg?v=1" />
-  <img src="https://raw.githubusercontent.com/eeennsu/eeennsu/main/profile-summary-card-output/github/4-productive-time.svg?v=1" />
-</div>
-
----
+📄 [이력서](https://resume.eunsu.pro) · ✍️ [개발 블로그](https://velog.io/@diso592/posts)
