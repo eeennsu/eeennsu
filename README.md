@@ -1,5 +1,3 @@
-<h1><img src="assets/mark.svg" width="44" height="44" align="absmiddle" alt="" /> 방은수 · Eunsu Bang</h1>
-
 웹과 모바일 앱을 만듭니다.<br />
 실용과 편의를 기준으로 고르는 것을 좋아합니다.
 
