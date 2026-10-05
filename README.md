@@ -1,14 +1,4 @@
-웹과 모바일 앱을 만듭니다.<br />
-실용과 편의를 기준으로 고르는 것을 좋아합니다.
-
-<br />
-
-## Stack
-
-**Language** — TypeScript<br />
-**Web** — React · Next.js<br />
-**Mobile** — React Native<br />
-**Backend** — NestJS
+> 🙂 Build me better.
 
 <br />
 
